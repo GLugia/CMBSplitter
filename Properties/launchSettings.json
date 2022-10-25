@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CMBSplitter": {
+      "commandName": "Project",
+      "commandLineArgs": "/p \"C:\\Users\\GLugi\\source\\repos\\CMBSplitter\\bin\\Debug\\net6.0\\textures\""
+    }
+  }
+}
